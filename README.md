@@ -1,4 +1,4 @@
-# Travel-Log-Website
+# Wonderlog
 
 First capstone project in Tuwaiq Bootcamp
 
